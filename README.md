@@ -1,28 +1,20 @@
-# This is a large heading
+# Its been such a long time since I read a book that kept me up at night
 
-## This is a smaller heading
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+*here's a short list of the ones I've enjoyed in the past*
+In reverse chronological order
 
-- This is
-- an unordered
-- list
+###Die Kaenguru Chroniken
+- Marc-Uwe Klimt
+- funny
+- satirical 
+- social/ political commentary
 
-1. This is
-2. an ordered
-3. list
+### The name of the Rose
+- Umberto Eco
+- Haven't read it
+- No clue
 
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+# Der kleine dicke Ritter
+- oblong fitz oblong
+- anyway
